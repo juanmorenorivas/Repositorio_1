@@ -1,5 +1,6 @@
-
+# Ignora el directorio node_modules
 node_modules/
 
+# Ignora el fichero indicado
 prueba_no_subit.txt
 
