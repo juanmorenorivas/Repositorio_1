@@ -1,0 +1,7 @@
+Bienvenido al curso de Cypress
+
+1.- npm init
+
+2.- npm install cypress --save-dev --> instalacion
+
+3.- node_modules\.bin\cypress open 
